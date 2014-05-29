@@ -1,0 +1,40 @@
+body {
+/*  background: url(images/Gas_Fiction_by_james6630.jpg); */
+  background: url(images/Shy_by_Apri1.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right bottom;
+  background-color: #000000;
+}
+
+div#wrapper {
+float: left;
+width: 900px;
+margin-left: 100px;
+margin-top: 50px;
+}
+
+div#wrapper .header {
+float: left;
+width: 100%;
+}
+
+div#wrapper .body {
+float: left;
+width: 100%;
+}
+
+div#wrapper .left {
+float: left;
+width: 450px;
+}
+
+div#wrapper .right {
+float: right;
+width: 450px;
+}
+
+div#wrapper .footer {
+width: 100%;
+float: left;
+}
