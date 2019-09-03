@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/logikone
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://logikone.net
+  * I am logikone (https://keybase.io/logikone) on keybase.
+  * I have a public key ASD3-5-bhK4rYuwedmYEVKy9nTZGSZHRFRts0SZeCrCk_wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f7fb9f9b84ae2b62ec1e76660454acbd9d36464991d1151b6cd1265e0ab0a4ff0a",
+      "host": "keybase.io",
+      "kid": "0120f7fb9f9b84ae2b62ec1e76660454acbd9d36464991d1151b6cd1265e0ab0a4ff0a",
+      "uid": "4a8561b2ea40e6b01e92d0d76120a519",
+      "username": "logikone"
+    },
+    "merkle_root": {
+      "ctime": 1567548655,
+      "hash": "0882011b9f8db4d6ebb71563b8bf68fa6da24e72d92a6835eef261f1300752abefb31449a0c248b33f056a7698eed2191c3c5c35807621f5b1266a2248f518a0",
+      "hash_meta": "073a6e7ad08674ab94b173c2d82d8b8ce88f70496ad35b5e8c617bd68836c1c9",
+      "seqno": 6163014
+    },
+    "service": {
+      "entropy": "PBlBRVY2dYOKKfx4foVfoJTW",
+      "hostname": "logikone.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1567548660,
+  "expire_in": 504576000,
+  "prev": "5f4a56352e29d4962f5f86fd49f9c94edf4063dce1cee382dd6c03d23850abba",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9/ufm4SuK2LsHnZmBFSsvZ02RkmR0RUbbNEmXgqwpP8Kp3BheWxvYWTESpcCDMQgX0pWNS4p1JYvX4b9SfnJTt9AY9zhzuOC3WwD0jhQq7rEIFmkYc7xGus1ASmLTWJvgwGikVmxKakxm4C30A52zN0oAgHCo3NpZ8RAJY8iWO8HjKRmK28Oe+HK/eUICDTG7DR3FxMUOiY/0wh/tdz94Jgcr74Q2sVLxKb4JxNmEDl8ZrXizA+v4++HDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPQc4Sv3K7hT5G55cuuIfjJ7KQQMKjwpl44ZCtZ5e4Kdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/logikone
+
+==================================================================
