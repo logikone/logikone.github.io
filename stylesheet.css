@@ -1,40 +1,74 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-/*  background: url(images/Gas_Fiction_by_james6630.jpg); */
-  background: url(images/Shy_by_Apri1.jpg);
+  background-color: #0a0a0a;
+  background-image: url(images/Shy_by_Apri1.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: right bottom;
-  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
 }
 
-div#wrapper {
-float: left;
-width: 900px;
-margin-left: 100px;
-margin-top: 50px;
+.card {
+  text-align: center;
 }
 
-div#wrapper .header {
-float: left;
-width: 100%;
+.card__wordmark {
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: 0.25em;
+  color: #ffffff;
+  text-transform: uppercase;
 }
 
-div#wrapper .body {
-float: left;
-width: 100%;
+.card__name {
+  font-size: 0.75rem;
+  letter-spacing: 0.4em;
+  color: #555555;
+  margin-top: 0.5rem;
+  text-transform: uppercase;
 }
 
-div#wrapper .left {
-float: left;
-width: 450px;
+.card__rule {
+  width: 40px;
+  height: 1px;
+  background: #333333;
+  margin: 1.5rem auto;
+  border: none;
 }
 
-div#wrapper .right {
-float: right;
-width: 450px;
+.card__tagline {
+  font-size: 0.75rem;
+  letter-spacing: 0.3em;
+  color: #888888;
+  text-transform: uppercase;
 }
 
-div#wrapper .footer {
-width: 100%;
-float: left;
+.card__links {
+  margin-top: 2rem;
+}
+
+.card__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #aaaaaa;
+  text-decoration: none;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  border: 1px solid #333333;
+  padding: 0.5rem 1.1rem;
+}
+
+.card__link:hover {
+  color: #ffffff;
+  border-color: #666666;
 }
