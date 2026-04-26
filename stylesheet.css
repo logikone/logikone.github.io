@@ -72,3 +72,8 @@ body {
   color: #ffffff;
   border-color: #666666;
 }
+
+.card__link:focus-visible {
+  outline: 2px solid #aaaaaa;
+  outline-offset: 3px;
+}
